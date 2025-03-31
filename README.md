@@ -24,5 +24,10 @@
 ## Contact Me
 📧 [kamil.dev203@gmail.com](mailto:kamil.dev203@gmail.com)
 
+## 🌐 Hosted Websites
+- 🚀 [LocalNews](https://demo-localnews.xyz) (Hosted on **AWS EC2**)
+  - [Frontend Repository](https://github.com/KamilMrowka/localnews-fe.git)
+  - [Backend Repository](https://github.com/KamilMrowka/localnews-be.git)
+
 ---
 📖 *"I have no special talents. I am only passionately curious." — Albert Einstein*
