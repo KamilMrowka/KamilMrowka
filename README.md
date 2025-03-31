@@ -28,6 +28,15 @@
 - 🚀 [LocalNews](https://demo-localnews.xyz) (Hosted on **AWS EC2**)
   - [Frontend Repository](https://github.com/KamilMrowka/localnews-fe.git)
   - [Backend Repository](https://github.com/KamilMrowka/localnews-be.git)
-
+  - Cities with the most articles assigned:
+    - Joliet, Illinois
+    - Elmhurst, Illinois
+    - Concord, New Hampshire
+    - Hinsdale, Illinois
+    - La Grange, Illinois
+    - Darien, Illinois
+    - Arlington, Virginia
+   
+      
 ---
 📖 *"I have no special talents. I am only passionately curious." — Albert Einstein*
