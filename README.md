@@ -1,9 +1,10 @@
-## My philosophy
-- **Build fast AND intentionally** - I believe in building mental models through abstractions AND diving deep into the hows and whys
-- **If I find it worth learning - I'm learning it.**
-- *"A jack of all trades is a master of none, but oftentimes better than a master of one"* (Yes, that's the actuall quote)
+## The way I am
+- Please **be passionate** around me, that's the fuel
+- **Build fast AND intentionally** - abstract mental models AND diving deep into the hows and whys, having both is the way
+- Impulsively trying to **explain computer science to everyone**
+- **If I find it worth learning - I'm learning it.** - Oh, limited hours in a day? FINE... I'll prioritize
+- *"A jack of all trades is a master of none, but oftentimes better than a master of one"* (Yes, that's the actual quote)
 - keyboard fast, mouse slow 🦍
-
 
 ### Main Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,6 +20,7 @@
 - Cloud Hosting
 - Containerization
 - SQL Databases with versioning
+- **Many** more
 
 ## 🌍 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamil-mrówka-aa2a37354/)
